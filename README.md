@@ -13,7 +13,7 @@ This repository introduces a disruptive theoretical model of **quantum computati
 ## White Paper
 
 The full white paper (PDF) is included in this repository:  
-[Quantum_Predictive_Computing_Final_Whitepaper_Zenith.pdf](./Quantum_Predictive_Computing_Final_Whitepaper_Zenith.pdf)
+[Quantum_Predictive_Computing.pdf](./Quantum_Predictive_Computing.pdf)
 
 ## Applications
 
